@@ -17,6 +17,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>👨‍💻 Data Analyst Projects:</h2>
+
+- <b>SQL (Tableau)</b>
+  - [Intel Data Center](https://github.com/SamuelD102003/An-Intel-Data-Center     )
 
 <h2>📺 Popular YouTube Videos</h2>
 - [Programmable Manufacturing Stage Tool] (https://youtu.be/lJUt86n6N2M  )
