@@ -4,18 +4,17 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-
-- <b>PowerShell</b>
+- <b>Java</b>
 
 - <b>C++</b>
   - [Fluid Simulation](https://github.com/Football-Shellhacked/FluidSimulation)
-- <b>Python</b>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>SQL</b>
-  - [Intel Data Center](https://github.com/SamuelD102003/An-Intel-Data-Center     )
+  - [Intel Data Center](https://github.com/SamuelD102003/An-Intel-Data-Center)
+- <b>Python</b>
+  - [Grammy Project](https://github.com/SamuelD102003/Grammys-Project)
 
 <h2>📺 Popular YouTube Videos</h2>
 - [Programmable Manufacturing Stage Tool] (https://youtu.be/lJUt86n6N2M  )
