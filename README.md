@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samuel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href=https://www.linkedin.com/in/samuel-diez-98bb2b2a6/>Data Analyst</a>
+<h1>Hi, I'm Samuel! <br/><a href="https://github.com/SamuelD102003">Programmer</a>, <a href=https://www.linkedin.com/in/samuel-diez-98bb2b2a6/>Data Analyst</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
